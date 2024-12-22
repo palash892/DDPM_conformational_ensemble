@@ -35,6 +35,7 @@ To run the code, ensure you have the following Python packages installed:
 
 ### 3. **Provided Example**
    - We have provided a trained model for the "moon" dataset. The folder `moon` contains training data in `.npy` format with two axes: x and y coordinates.
+   - We have also included the backbone torsion data for Trp-cage mini-protein. The folder `Trpcage` contains the training data in `.npy` format.
 
 ### 4. **Data Types Supported**
    - This code is versatile and can be applied to various types of data such as:
