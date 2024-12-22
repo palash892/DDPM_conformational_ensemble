@@ -52,3 +52,5 @@ To run the code, ensure you have the following Python packages installed:
 - Here is a nice animation demonstrating how moon data can be generated from pure random noise using DDPM.
 
 ![Animation](animation.gif)
+
+## News!
