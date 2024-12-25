@@ -17,6 +17,7 @@ To run the code, ensure you have the following Python packages installed:
 - [numpy](https://numpy.org/)
 - [torch](https://pytorch.org/)
 
+# A schematic overview of the noising and denoising processes.
 ![](schematic_git.png)
 
 ## Directory Structure & Usage
