@@ -24,6 +24,7 @@ using an image of a Paperflower clicked at the TIFRH campus during summer. The u
 process, represented by the blue arrow, where the original input image $x_0$ is progressively corrupted by adding random noise,
 and the reverse (denoising) process, represented by the black arrow, where a neural network predicts the added noise. The
 lower panel illustrates the U-Net model architecture.
+
 ![](schematic_git.png)
 
 ## Directory Structure & Usage
