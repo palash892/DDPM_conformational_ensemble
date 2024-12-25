@@ -48,7 +48,7 @@ lower panel illustrates the U-Net model architecture.
    - We have also included the backbone torsion data for Trp-cage mini-protein. The folder `Trpcage` contains the training data in `.npy` format.
 
 ### 4. **Data Types Supported**
-   - This code is versatile and can be applied to various types of data such as:
+   - This code is versatile and can be applied to various types of data, here is some example:
      - Torsion angles
      - Raw coordinates of all atoms
      - Protein-ligand distances
