@@ -1,7 +1,7 @@
 # Generating conformational ensemble using a Denoising Diffusion Probabilistic Model (DDPM)
 
-Welcome to the repository for the research project titled **Assessment of Diffusion Model as Generative Artificial Intelligence for Enhanced
-sampling and All-atom Conformational Ensemble Exploration of Biomolecules**
+Welcome to the repository for the research project titled **Assessing Generative Diffusion Models for Enhanced Sampling of Folded and
+Disordered Protein States Across Scales and in All-atom Resolution**
 
 ### The code has been adopted from the following GitHub repositories and websites, with necessary modifications.
 
